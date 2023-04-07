@@ -8,7 +8,7 @@ public class example {
 		  // Addition
 		int a = 10, b = 20;
 		System.out.println(10+20 + "Javapoint");  
-		System.out.println( "Javapoint" + (a+b) );
+		System.out.println( "Javapoints" + (a+b) ); // did changes
 		
 	      // Subtraction
 		System.out.println(20-10 + "Javapoint");
