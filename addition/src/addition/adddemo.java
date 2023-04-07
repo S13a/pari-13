@@ -10,7 +10,7 @@ public class adddemo
 		//int c = a+b;
 	
 		
-		
+		System.out.println("1234"); //manager did changes
 		System.out.println(a+b);
 	
 	}
